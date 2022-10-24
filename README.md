@@ -14,4 +14,4 @@ How is it different?
 
 TSI Digital Foundations program does not offer conventional instructor led pedagogy. The emphasis is on self - directed learning assisted by a coach/ mentor. The coach and the aspirant jointly designs a personalized program that is suited to the aspirant's needs. The aspirants work in small groups, which resemble a job - like environment, and accomplish tasks collectively. The aspirant's progress will be obsessively tracked on a system with inputs from all stakeholders who are interacting with the aspirant from time to time. A qualitative “Skill Report” that highlights the strengths and weaknesses of the aspirant will be shared with hiring managers.
 
-To know more, <a href="https://github.com/tsiconsulting/tsi-digital-foundations/raw/main/TSI%20Digital%20Foundations%20Handbook%20v0.1.pdf">download the handbook</a> and join the discord community at https://discord.gg/86HT2VhVzS
+To know more, <a href="https://github.com/tsiconsulting/tsi-digital-foundations/raw/main/TSI%20Digital%20Foundations%20Handbook%20v0.1.pdf">download the handbook</a> and join the <a href="https://discord.gg/86HT2VhVzS">discord community</a>
