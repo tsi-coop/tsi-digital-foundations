@@ -8,4 +8,4 @@ This webinar provides a thoughtful overview of today's digital essentials. We'll
 
 A distinctive part of this webinar is the inclusion of both digital maturity assessment for businesses and capability maturity assessment for service providers. This means you'll gain a quiet understanding of your own digital standing and learn how to evaluate the digital strengths of potential partners. It's about empowering you, the MSME owner, with gentle insights and foundational knowledge to guide your business's digital journey.
 
-To know more, write to us at admin@tsicoop.org
+To know more, join our <a href="https://tsicoop.org">TSI Digital Hub</a>. 
