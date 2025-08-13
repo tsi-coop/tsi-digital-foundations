@@ -6,4 +6,4 @@ The "TSI Digital Foundations Webinar" offers a pathway to digital confidence for
 
 We are planning to commence our TSI Digital Foundations webinar series soon, which will encompass both learning-focused sessions to equip you with essential digital knowledge and interactive support sessions designed to address real-world challenges faced by both buyers and providers in the digital space. This webinar series will provide a thoughtful overview of today's digital essentials, exploring foundational elements like how networks operate, the quiet mechanics behind web and mobile apps, and key technical concepts. The program also touches upon practical areas crucial for modern business, including ensuring quality, streamlining operations, understanding cloud services, digital marketing strategies, data management, and information security. Importantly, we introduce various digital roles, offering a clearer picture of potential talent within your own team.
 
-To know more, join our <a href="https://tsicoop.org">TSI Digital Hub</a>. 
+To know more, join our <a href="https://tsicoop.org">TSI Community</a>. 
